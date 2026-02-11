@@ -1,13 +1,20 @@
-## Hi there 👋
+## Hi someone who read this nice to meet you👋
 
 <!--
 **Weihp-3/Weihp-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently stud on 
+SMKN 4 TANGERANG
+
+- 🌱 I’m currently learning
+      Java 
+      PHP
+      JvaScript
+      mySQL
+      
+- 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
