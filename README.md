@@ -1,4 +1,22 @@
-## Hi someone who read this nice to meet you👋
+Hi someone who read this
+
+nice to meet you👋
+
+- 🔭 I’m currently study on 
+SMKN 4 TANGERANG
+
+- 🌱 I’m currently learning
+      Java 
+      PHP
+      JvaScript
+      mySQL
+      
+- 📫 How to reach me:
+  yudahp363@gmail.com
+
+
+
+
 
 <!--
 **Weihp-3/Weihp-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
