@@ -1,18 +1,27 @@
-Hi someone who read this
+🖥️ Operating Systems
+   ├── Linux mint xfce
+   └── Windows 10
 
-nice to meet you👋
+⌨️ Programming Languages
+   ├── PHP
+   ├── Java
+   └── JavaScript
 
-- 🔭 I’m currently study on 
-SMKN 4 TANGERANG
+🔧 Frameworks
+   ├── Laravel
+   └── Tailwind CSS
 
-- 🌱 I’m currently learning
-      Java 
-      PHP
-      JavaScript
-      mySQL
-      
-- 📫 How to reach me:
-  yudahp363@gmail.com
+📚 Libraries
+   └── Bootstrap 
+
+🌐 Languages
+   ├── Bahasa Indonesia
+   ├── Japan
+   └── English
+
+➕ Other Skills
+   ├── HTML
+   └── CSS
 
 
 
