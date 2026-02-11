@@ -8,7 +8,7 @@ SMKN 4 TANGERANG
 - 🌱 I’m currently learning
       Java 
       PHP
-      JvaScript
+      JavaScript
       mySQL
       
 - 📫 How to reach me:
